@@ -1,1 +1,3 @@
-# Maste1_IntershipPadova
+# Maste 1 Intership in Padova, Italie
+
+I display the internship report of my internship at the University of Padova with Giorgia Callegaro and Martino Grasselli. This work is related to the paper "Efficient simulation of a new class of Volterra-type SDEs", and the primary objective was to implement the Euler-type scheme presented in Section 4. Once the algorithm was optimized and correctly implemented, I conducted numerical Monte Carlo tests to study the strong convergence order of the scheme, which achieved an order of 1/2 in a special case (fractional kernel case). I also performed numerical experiments on two other schemes and compared the results among these three schemes. This report concludes with some experiments regarding the Hölder regularity of our process.
